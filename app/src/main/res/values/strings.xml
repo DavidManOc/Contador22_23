@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contador22_23</string>
+    <string name="btn_mensaje">Mensaje</string>
+    <string name="btn_contar">Contar</string>
+    <string name="btn_resetear">Resetear</string>
+    <string name="txt_contador">0</string>
+    <string name="txt_header"><![CDATA[1º App -> Contador]]></string>
+</resources>

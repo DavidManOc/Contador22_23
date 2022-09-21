@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_header">29dp</dimen>
+    <dimen name="txt_contador">250dp</dimen>
+    <dimen name="margen_externo">8dp</dimen>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contador22_23</string>
+    <string name="btn_mensaje">Message</string>
+    <string name="btn_contar">Count</string>
+    <string name="btn_resetear">Reset</string>
+    <string name="txt_contador">0</string>
+    <string name="txt_header">Header</string>
+</resources>
