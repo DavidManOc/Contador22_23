@@ -58,7 +58,6 @@
         android:id="@+id/txt_header"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginStart="@dimen/margen_externo"
         android:autoText="false"
         android:background="#B5E8EF"
         android:fontFamily="sans-serif-black"
